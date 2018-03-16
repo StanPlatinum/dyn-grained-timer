@@ -1,6 +1,6 @@
 # dyn-grained-timer
 
-Please refer to our esorics 2017 paper for moredetails.
+Please refer to our esorics 2017 paper "On-demand time blurring to support side-channel defense" for more details.
 
 Please use this following configs for xen-4.6.0
 
