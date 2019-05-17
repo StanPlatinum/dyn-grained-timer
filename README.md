@@ -1,4 +1,4 @@
-# dyn-grained-timer
+# on-demand time blurring for Xen guest-VMs
 
 Please refer to our esorics 2017 paper "On-demand time blurring to support side-channel defense" for more details.
 
