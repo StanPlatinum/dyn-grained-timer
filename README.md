@@ -22,7 +22,3 @@ Just need to make xen (no need to make tools)
 4. install kernel and guest-VM
 
 5. enable time blurring
-
-Configs:
-
-Instructions:
